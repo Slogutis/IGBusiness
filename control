@@ -1,0 +1,9 @@
+Package: com.abdullah.igbusiness
+Name: IGBusiness
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable Business feature for instagram account 
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
